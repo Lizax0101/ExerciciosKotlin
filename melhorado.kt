@@ -1,0 +1,2 @@
+
+val input: String? = readLine()
